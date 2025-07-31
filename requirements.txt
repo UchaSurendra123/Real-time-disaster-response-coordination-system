@@ -1,0 +1,7 @@
+Django==3.2.9
+djangorestframework
+channels
+channels_redis
+psycopg2-binary
+django-cors-headers
+twilio
